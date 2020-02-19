@@ -1,0 +1,9 @@
+C:\Users\histo\source\repos\CareerCenterReceptionist\CareerCenterReceptionist\bin\Debug\CareerCenterReceptionist.exe.config
+C:\Users\histo\source\repos\CareerCenterReceptionist\CareerCenterReceptionist\bin\Debug\CareerCenterReceptionist.exe
+C:\Users\histo\source\repos\CareerCenterReceptionist\CareerCenterReceptionist\bin\Debug\CareerCenterReceptionist.pdb
+C:\Users\histo\source\repos\CareerCenterReceptionist\CareerCenterReceptionist\obj\Debug\CareerCenterReceptionist.csprojAssemblyReference.cache
+C:\Users\histo\source\repos\CareerCenterReceptionist\CareerCenterReceptionist\obj\Debug\CareerCenterReceptionist.Form1.resources
+C:\Users\histo\source\repos\CareerCenterReceptionist\CareerCenterReceptionist\obj\Debug\CareerCenterReceptionist.Properties.Resources.resources
+C:\Users\histo\source\repos\CareerCenterReceptionist\CareerCenterReceptionist\obj\Debug\CareerCenterReceptionist.csproj.GenerateResource.cache
+C:\Users\histo\source\repos\CareerCenterReceptionist\CareerCenterReceptionist\obj\Debug\CareerCenterReceptionist.exe
+C:\Users\histo\source\repos\CareerCenterReceptionist\CareerCenterReceptionist\obj\Debug\CareerCenterReceptionist.pdb
